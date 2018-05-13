@@ -4,6 +4,5 @@
 
 ## Requirements
 
-SketchApp
-
-Kactus(Generate sketch files, Version control)
+- SketchApp
+- Kactus(Generate sketch files, Version control)
