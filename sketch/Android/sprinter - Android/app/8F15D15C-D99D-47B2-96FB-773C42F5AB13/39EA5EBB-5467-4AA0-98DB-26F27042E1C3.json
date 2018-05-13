@@ -1,0 +1,142 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "39EA5EBB-5467-4AA0-98DB-26F27042E1C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "743B20DF-F0F1-46CD-B169-6CE2DEF85FF6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AECC7717-9465-4630-8331-5097C00F5D55",
+    "height": 56,
+    "width": 336,
+    "x": 12,
+    "y": 172
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cal / date_list",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1EA3D6B3-B8DA-4026-B64D-D028A652AE11/0A8E32B5-7257-4EEC-AE4D-CEE75278CF92_stringValue",
+      "value": "8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0F416DCC-18E1-470B-A7B0-7FB92931F54F/2A58C39B-47FE-4287-A143-0061D90ED857_stringValue",
+      "value": "9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B63AF701-5258-457F-96B1-75FBA9802679/2A58C39B-47FE-4287-A143-0061D90ED857_stringValue",
+      "value": "11"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1AA63786-12DA-4B52-8753-8147C836586C/0A8E32B5-7257-4EEC-AE4D-CEE75278CF92_stringValue",
+      "value": "14"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5904F9D6-9C25-4A30-99C9-6A5DF5DC39F9",
+      "overrideName": "809E8A98-1E58-49B8-8080-4E19759F769A/9D6754C2-D469-46AA-A39E-7527B3ECA564_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F63ECCCB-DA0E-42A2-86E5-63B899A6C07A",
+      "overrideName": "809E8A98-1E58-49B8-8080-4E19759F769A/2A58C39B-47FE-4287-A143-0061D90ED857_stringValue",
+      "value": "13"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EDA170A-6ABA-4130-BAD2-8981F76A9BBE",
+      "overrideName": "5F71232B-507B-49C5-B57A-3D4E483B0B92/2A58C39B-47FE-4287-A143-0061D90ED857_stringValue",
+      "value": "12"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "818A335B-14D0-4D31-A618-573884AED9B6",
+      "overrideName": "44DDEDEB-ACA3-4789-8391-1E01CF71169A_symbolID",
+      "value": "0640229E-A42B-482E-8F9C-D368E96E4EB4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B538451A-5470-44E1-A2B4-3ADC6BEE6283",
+      "overrideName": "44DDEDEB-ACA3-4789-8391-1E01CF71169A/E017F9C5-10E3-4EAB-B7C3-31D5C9139C35_stringValue",
+      "value": "10"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B1FD221F-32A0-4B1F-B9D4-4D16F136367A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "33A2C056-4B5C-4198-AF34-7C4D3A5D3BE0",
+  "verticalSpacing": 0
+}

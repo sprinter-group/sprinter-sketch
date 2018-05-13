@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A1AFEBC4-27DF-40CA-BCF7-F439A0B872B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B3B39D3-B595-4882-9811-506631BC29CE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "15BC3E62-0F75-40DB-BFD0-BD82E54D9026",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 350
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "task / event",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "123B1335-1D9A-4FA1-9C29-9B717E250372",
+      "overrideName": "D989946A-88B9-4B8C-823F-EC136F5CF4D7_stringValue",
+      "value": "오전 11:00"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A80128A7-A3D0-4ACD-9AC9-361622B13819",
+      "overrideName": "39B91A98-753A-42C9-A171-8F946D590CAE_stringValue",
+      "value": "CA 디자인팀 Meet up"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4DBA79CF-0D81-4639-BD1C-0E4D34958953",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "606450A1-BBBD-47B4-AF40-7D3E7619F155",
+  "verticalSpacing": 0
+}

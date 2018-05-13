@@ -1,0 +1,107 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FB787A9A-23B3-4608-8FF9-FDF4F70B83E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 59,
+    "width": 270,
+    "x": 24,
+    "y": 509
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "task / event_details_75",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BA242B99-904F-436F-8327-618DA3C347F4",
+      "overrideName": "7E7491D7-C94C-4D51-BA1E-30780AFC5B6F_stringValue",
+      "value": "달력, 주소록 연동하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F5E2B4B-A77C-4548-8135-DD8C6D0507ED",
+      "overrideName": "05D17185-61BF-4D47-B5BE-73089E2F401E_stringValue",
+      "value": "구글 계정 저장"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D51DF91-4EB8-42FD-BFB6-1ACC2E45DA8D",
+      "overrideName": "E038B294-D6D4-46A0-9532-AD102F90DB4D_stringValue",
+      "value": "오전 9:00"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "43352763-83F6-4642-9365-8DA20723E684",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F27F3F62-E2C4-42F4-B482-B01F4B7FF4C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "949FA875-F514-4F3D-BC18-81198D980511",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "154AE7F8-C019-4265-A8CF-EFEB49E97D3E",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 542
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "task / eventDone",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "945C29BF-EBF7-46FD-B4B1-14DB3AB6685D",
+      "overrideName": "794B79CF-1CE0-4532-8FF0-C245F91F14BB_stringValue",
+      "value": "오후 9:00"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34EE5578-502E-415A-BD0E-AA8538797C76",
+      "overrideName": "3F1F5504-CD37-4745-8924-A05785551968_stringValue",
+      "value": "고갈비 예약"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "854FD349-B448-4717-839A-49D8D6CA89FE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "16C85947-E64A-413B-805C-B3D699ABFFC5",
+  "verticalSpacing": 0
+}

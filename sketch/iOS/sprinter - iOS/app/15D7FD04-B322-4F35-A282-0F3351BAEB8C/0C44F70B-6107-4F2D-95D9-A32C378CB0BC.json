@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0C44F70B-6107-4F2D-95D9-A32C378CB0BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4171EB05-73CC-4D5F-BCBF-A3C4284C429F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8AA0034-5A7C-4752-8FF2-2192D9B070C8",
+    "height": 92,
+    "width": 375,
+    "x": 0,
+    "y": 76
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "search / searchBound",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3124B9FE-0340-4295-84BB-8A7A7CAF18B1",
+      "overrideName": "F449B869-C62F-4C9F-8E27-D5B4D0A9977B_stringValue",
+      "value": "수강신청"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EE418B2-D391-49DF-83D5-3E1ACA9A01E0",
+      "overrideName": "8BC5196D-A018-4D46-84D8-17BA1CCAC70C_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F66D30D4-90B6-4ED2-8256-384690A086E0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "04CC82B8-E4E0-4FF5-87C3-CD4A401151D3",
+  "verticalSpacing": 0
+}

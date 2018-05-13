@@ -1,0 +1,110 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4439C23A-BFA0-40F9-8F20-157194A5EB64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "678523DF-9948-4326-AA49-0E6C43A94093",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "148AD4AC-0975-400C-AC90-1AF104EB2F49",
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 238
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "task / event",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D120232-D284-41B0-9540-C32A3BEEB30F",
+      "overrideName": "A5F407AC-D5C6-4EDA-9B97-2BBF57E701F5_stringValue",
+      "value": "햄스터 집 청소"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "009B600A-B34E-4F96-8AE5-7CF87113DA62",
+      "overrideName": "C1574DC9-A513-4E83-BC6F-7F199843388B_stringValue",
+      "value": "해야 할 일"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94E1CBA4-2524-4C8C-90AF-66A4E9C467A9",
+      "overrideName": "968535C6-967B-4B1C-B6C8-CD7F5A7CBCB2_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58324483-6088-47F3-BB01-09FD2541793E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "606450A1-BBBD-47B4-AF40-7D3E7619F155",
+  "verticalSpacing": 0
+}

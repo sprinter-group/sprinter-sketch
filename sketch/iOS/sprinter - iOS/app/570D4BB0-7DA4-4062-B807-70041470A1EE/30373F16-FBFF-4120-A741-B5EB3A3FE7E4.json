@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "30373F16-FBFF-4120-A741-B5EB3A3FE7E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 216,
+    "width": 375,
+    "x": 0,
+    "y": 451
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input / iterateKbd",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9AE78A66-B435-4FF7-8A2D-4E938C513A3B",
+      "overrideName": "FB595231-7835-4987-926C-F08955F2B516/BDC2D6F9-956B-4918-9497-43E61F8524AC_stringValue",
+      "value": "매월 반복"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D82D4586-5D71-4FF5-9265-BF80D1CD33EB",
+      "overrideName": "D7AD46B6-BEF3-45BC-9D3A-64DD79AEE8C0/BDC2D6F9-956B-4918-9497-43E61F8524AC_stringValue",
+      "value": "매주 반복"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9011D7E1-FB04-43B7-8176-17F7C5539F69",
+      "overrideName": "02971DED-C6EC-4ADD-9631-3E8335ED24E9/BDC2D6F9-956B-4918-9497-43E61F8524AC_stringValue",
+      "value": "격주로 반복"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A00B3183-6270-40FF-834E-F90C3CCFB852",
+      "overrideName": "156A98DE-8B92-4984-97A8-21EF7A29DC2E/BDC2D6F9-956B-4918-9497-43E61F8524AC_stringValue",
+      "value": "매년 반복"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B2B256D9-1813-42AC-A7A1-CC57FBE1E9F2",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FA763571-7B19-4264-B758-F9E18A04EA8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "008EA6B2-EC09-407D-AC96-FD8570D909AF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DAAAD8F0-9CB2-45F7-B0B9-649A13D03364",
+    "height": 78,
+    "width": 375,
+    "x": 0,
+    "y": 373
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "task / eventDetails",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48F6717D-F580-4F36-BD13-0E5BA7787749",
+      "overrideName": "2B991777-01E3-4EA4-9048-A2A8F07AD0E6_stringValue",
+      "value": "스프린터 디자인 피드백"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "123B1335-1D9A-4FA1-9C29-9B717E250372",
+      "overrideName": "D989946A-88B9-4B8C-823F-EC136F5CF4D7_stringValue",
+      "value": "오후 3:00"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84AE7367-1A35-4549-8450-366F0F250292",
+      "overrideName": "FC9C41B6-95C1-4F16-BD63-0A864613E5DC_stringValue",
+      "value": "인쇄물 출력"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1BD80B2-7108-49F0-877E-C808D0F95BE2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "25B27212-1D63-432E-B500-3412B954AB90",
+  "verticalSpacing": 0
+}

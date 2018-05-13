@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D71776AC-688F-4762-BA1B-3FE600898D8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8DCA4CF-1F98-4E1A-B1D0-17A83B7794B7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9C3CFB1-C467-43FE-88A6-766CDE9428CB",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 168
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "task / event",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "908FA74D-5505-4075-A449-7D444686C443",
+      "overrideName": "39B91A98-753A-42C9-A171-8F946D590CAE_stringValue",
+      "value": "등록된 일정이 없습니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DDA4FAF8-7CE6-40D2-8D56-7436DE4FF8AF",
+      "overrideName": "9628FBB1-DF0E-4CC0-9D63-06E353F4FEDB_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F91A8EF-4A5C-42A2-8228-E52F60FF3045",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "606450A1-BBBD-47B4-AF40-7D3E7619F155",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,110 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "22BF7EC4-4C11-4D89-BBD7-04DDEA3768EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A4FCE08-FE8C-40CD-8764-1F87D9FC8DDE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB451FA4-5191-4E24-A3F7-C718B7B2C9F4",
+    "height": 78,
+    "width": 360,
+    "x": 0,
+    "y": 250
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "skeleton / task / event_details",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8470BD70-93B5-44D3-96D2-F5235DAE9B28",
+      "overrideName": "8447C92F-CBB5-4EDF-AE04-C0BBCAE987F6_stringValue",
+      "value": "스프린터 디자인 수정안 제출"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D19A8B9-07DF-49F7-8399-DFE15131B761",
+      "overrideName": "C060BF28-EE50-43E7-AF0B-237C6F1F9A79_stringValue",
+      "value": "오후 4:00"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1847A8E0-5FBD-45F7-9F40-1B4C7849BA3E",
+      "overrideName": "12723173-EC81-4CF3-B1F0-0128A551EF80_stringValue",
+      "value": "이미지 파일 포함시켜서"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDE906CE-A265-4583-A9BC-00D6954328BC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A07AC8BC-2C88-44A5-873E-C8BCA7B48186",
+  "verticalSpacing": 0
+}

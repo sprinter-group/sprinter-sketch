@@ -1,0 +1,137 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "78BB340B-41D3-4855-8A0D-954890A007EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 216,
+    "width": 375,
+    "x": 0,
+    "y": 451
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input / timeKbd",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FB51C0F4-7159-4F13-B096-194D1FA0F3A6",
+      "overrideName": "9C54C82E-ECB5-4BE3-AC8B-39A93924ADE3/BDC2D6F9-956B-4918-9497-43E61F8524AC_stringValue",
+      "value": "날짜"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A27B5F21-9BF4-4226-9527-290879015042",
+      "overrideName": "C31EF7C8-348C-4920-8001-47B10C14A5E5/14455EE3-EC81-4BF6-8BF6-CB99C18C296C_stringValue",
+      "value": "시간"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D9B952B2-481D-465B-8D1D-2ABBC47730AA",
+      "overrideName": "903E1EAB-8CB7-4698-AD5E-DF9CBC65C02B/4582CC5C-7ADB-4BDE-9C84-FAAC8BD5CF2A_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9419FC9B-4F8B-4DAE-854C-5A0D9A130E1F",
+      "overrideName": "A512C13E-39F9-41B1-A39E-336FB51AF7F9/F8CDFD8C-4FB6-461E-B5F5-8BB188A55EB5_stringValue",
+      "value": "하루종일"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "87840C9B-D7CB-46BD-9B13-9C757D823647",
+      "overrideName": "2AE18206-201D-44CF-9ABC-F9F05E7ED537/4582CC5C-7ADB-4BDE-9C84-FAAC8BD5CF2A_stringValue",
+      "value": "오전"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B362F203-96EE-4975-B12E-BB3BBD3F5C88",
+      "overrideName": "235097E0-961F-46B1-AD3C-B23F1B477B17/4582CC5C-7ADB-4BDE-9C84-FAAC8BD5CF2A_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "22C0CDB1-A0CF-46A8-A3A4-27F800977A1B",
+      "overrideName": "92355FE6-6D6A-4959-AD3E-483AB92332DF/F8CDFD8C-4FB6-461E-B5F5-8BB188A55EB5_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16802AC8-916B-4F95-B1BC-5436E6FFCCD1",
+      "overrideName": "BD510DEF-CC40-4E7A-B81D-93FE6CEB0141/4582CC5C-7ADB-4BDE-9C84-FAAC8BD5CF2A_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "514262A8-663F-43EB-805C-51FD793D1B21",
+      "overrideName": "87B6A6F8-9F7D-4817-8BC9-072D969E24EF/4582CC5C-7ADB-4BDE-9C84-FAAC8BD5CF2A_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "36E23145-9DE0-450E-9E99-A73D204C5E39",
+      "overrideName": "E94A797F-C6F5-4EB4-A8B2-421C7B067505/F8CDFD8C-4FB6-461E-B5F5-8BB188A55EB5_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "39BF5417-AFDB-4FBC-9390-1E975B3CF9E2",
+      "overrideName": "25D0C0B9-5D2B-4D54-B9AD-527BEF76316D/4582CC5C-7ADB-4BDE-9C84-FAAC8BD5CF2A_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1FDAA727-57DE-4C5E-BD5B-CBE8B832E10B",
+  "verticalSpacing": 0
+}

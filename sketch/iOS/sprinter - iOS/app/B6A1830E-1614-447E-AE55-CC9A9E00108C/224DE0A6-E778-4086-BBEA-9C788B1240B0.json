@@ -1,0 +1,137 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5016209608843537,
+            "green": 0.4741093946111036,
+            "red": 0.4741093946111036
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SpoqaHanSans-Regular",
+              "size": 15
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26,
+            "paragraphSpacing": 1
+          }
+        },
+        "length": 324,
+        "location": 0
+      }
+    ],
+    "string": "수강신청 기간\n - 2, 3, 4학년 (재학생, 복학생, 재입학생)\n\n - 학번 끝자리가 짝수인 학생: 2018. 2. 20(화) 10:00 ~ 13:00, 2018. 2. 21(수) 10:00 ~ 2. 23(금) 17:00\n\n- 학번 끝자리가 홀수인 학생: 2018. 2. 20(화) 14:00 ~ 17:00, 2018. 2. 21(수) 10:00 ~ 2. 23(금) 17:00\n\n- 복수전공, 부전공: 2018. 2. 21(수) 10:00 ~ 2.23(금) 17:00\n\n - 타 학과 과목, 주야간 교차 신청: 2018. 2. 21(수) 10:00 ~ 2.23(금) 17:00"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "224DE0A6-E778-4086-BBEA-9C788B1240B0",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5A957B1-A51F-4431-BADE-41EDFD284306",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF75A5F3-1ECA-4FEC-90DF-7CD4096C58A8",
+    "height": 373,
+    "width": 343,
+    "x": 16,
+    "y": 136
+  },
+  "glyphBounds": "{{0, 6}, {339, 363}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "text15Regular",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01EE5954-16DA-498A-9F3A-99E2F25D5AFE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "309ED7B6-AE18-4A9C-A3FF-4850EADEE0D8",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5016209608843537,
+          "green": 0.4741093946111036,
+          "red": 0.4741093946111036
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SpoqaHanSans-Regular",
+            "size": 15
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 26,
+          "minimumLineHeight": 26,
+          "paragraphSpacing": 1
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

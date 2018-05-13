@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A516AC8B-3A13-47EC-A4B7-1F41D9AC81CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0A79A98-8556-4FBB-9882-0CE8F8E92246",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8DE2C3C4-FF27-4A17-A455-9A80889B9A0D",
+    "height": 54,
+    "width": 375,
+    "x": 0,
+    "y": 559
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input / clipboardBaseList",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34C274B5-0234-4388-A39D-E6836325078D",
+      "overrideName": "87624016-E8CA-4A67-9CFA-C81954AA89EC_stringValue",
+      "value": "수강신청 기간: 2, 3, 4학년(재학생, 복학생, 재입학생..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CB75BF82-F4CB-4A2E-8A95-B42149B64E75",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A4F64B50-A787-4B31-8E7F-6295DCD854D4",
+  "verticalSpacing": 0
+}
