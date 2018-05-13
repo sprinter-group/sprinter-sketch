@@ -4,5 +4,9 @@
 
 ## Requirements
 
-- SketchApp
-- Kactus(Generate sketch files, Version control)
+- [SketchApp](https://www.sketchapp.com)
+- [Kactus](https://kactus.io) (Generate sketch files, Version control)
+
+## Repository
+
+- [Sprinter](https://github.com/sprinter-group)
