@@ -7,7 +7,7 @@
     "green": 0.2156862745098039,
     "red": 0.2156862745098039
   },
-  "changeIdentifier": 1573,
+  "changeIdentifier": 1585,
   "do_objectID": "E7C4B107-0EAA-44FC-BFE4-365A92750C3B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -72,7 +72,7 @@
     "y": 64
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
