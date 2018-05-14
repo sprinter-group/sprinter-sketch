@@ -56,6 +56,12 @@
   "name": "comp / searchHeader",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16925F39-5AF4-46B4-BEA7-0C44A4793DA8",
+      "overrideName": "506D70BE-5DF9-4536-BC0F-39761F8E7C61_symbolID",
+      "value": "D3E3ECA4-C4B5-4797-A176-E7B3F51603E4"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
