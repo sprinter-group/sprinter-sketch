@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3C54F72A-BEB8-4B4D-BD05-6C8780679D99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D9A62CE-1866-476D-A055-BFD23F839695",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5BC13EED-83E7-474B-BAEA-8253456F9E53",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 300
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "comp / menu / listIcon",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79E9BBEF-4860-450D-8B17-E135E34D5F9C",
+      "overrideName": "11CD9B23-365F-4C8B-873C-101707E186F9_stringValue",
+      "value": "완료된 일정 보기"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D907513-82D1-450E-A6E0-B062110C5D10",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "27FD85A5-71B1-4B5A-BC64-E43B7180AA1F",
+  "verticalSpacing": 0
+}

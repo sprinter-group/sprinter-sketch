@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3B409515-541A-4512-A139-FE0C1772E699",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35D526F9-D1C0-4E6B-BFBE-E517DE898AA5",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC0A76E6-6AA4-429C-84ED-09C02CBB8906",
+    "height": 48,
+    "width": 360,
+    "x": 0,
+    "y": 176
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "comps / menu / menu_icon_front",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE247FBB-3BE2-4F47-BD90-501FB9B99D5D",
+      "overrideName": "B60FEF44-E524-4CD7-8A77-7459CA32FF04_stringValue",
+      "value": "월요일부터 시작"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB15E2AB-D1CB-432A-BFCC-5B81BE508141",
+      "overrideName": "70FF586A-050D-4480-B1EA-22E9C94C9FBD_symbolID",
+      "value": "FE20FF5C-D3D6-4C6C-9AF4-3A390C07CDB5"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6B0EBF3-9754-4289-A4BA-7D11A519A526",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8DB198D4-DFFB-44B3-A302-A3591D8D8595",
+  "verticalSpacing": 0
+}

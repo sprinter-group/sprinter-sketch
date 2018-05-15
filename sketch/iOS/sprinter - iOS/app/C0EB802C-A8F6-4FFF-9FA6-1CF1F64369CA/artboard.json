@@ -53,7 +53,7 @@
     "y": 141
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -71,11 +71,55 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "B3BC29A0-0B66-44E4-9E49-8750AC80B1E3"
+      "id": "AC8EE7F3-F5A7-4CA9-9FBE-A622B887D638"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16879AB0-BFF6-4515-81D0-9555B83D2149"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B91622C8-8083-484E-BF60-C4B78BBA8EFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB30E496-164F-408B-A8AF-B2CF68D76D86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D294F35-42FF-4239-88F6-6EDE95A5AB66"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C54F72A-BEB8-4B4D-BD05-6C8780679D99"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF271B24-C3F2-4742-B8A5-78C4000AC0AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "069E468E-A7BD-4279-9DA6-2FB0215A5B59"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9164DFB-6F5E-4739-B70A-D27C5E0C8B23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "301368E6-6F98-4CCC-9F00-09B2D0D0429E"
     },
     {
       "class": "symbolInstance",
       "id": "B82C5DA9-8F3F-45D2-A8BE-88450426D187"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3BC29A0-0B66-44E4-9E49-8750AC80B1E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D76EBF2F-1A89-4A17-A3F6-B3121E03099F"
     }
   ],
   "name": "settings",

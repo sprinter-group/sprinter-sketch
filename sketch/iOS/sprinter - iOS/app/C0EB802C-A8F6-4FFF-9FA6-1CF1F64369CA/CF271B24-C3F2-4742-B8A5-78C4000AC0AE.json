@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CF271B24-C3F2-4742-B8A5-78C4000AC0AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "771B2C94-B671-4062-9640-A8FEA11F41CD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DC92A92-A7CA-452D-AB0D-9ACE36431A1F",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 252
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "comp / menu / title",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6B4427F-FDE9-4CC7-A1E9-18586F6BA8DA",
+      "overrideName": "9196E577-7371-4306-9F9D-409673B3C1B8_stringValue",
+      "value": "일정 관리"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B20BB47-A0EF-480B-932D-99E242F51B0C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "395F1BCA-5257-43E7-8632-3BE855F84EE2",
+  "verticalSpacing": 0
+}

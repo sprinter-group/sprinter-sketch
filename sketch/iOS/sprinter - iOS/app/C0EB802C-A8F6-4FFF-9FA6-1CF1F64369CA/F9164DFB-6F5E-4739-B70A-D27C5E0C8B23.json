@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F9164DFB-6F5E-4739-B70A-D27C5E0C8B23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 124
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "comp / menu / listIcon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9FB52025-99B5-42E9-9C28-901C66F03079",
+      "overrideName": "E062F523-AAF1-4160-A019-F069D484338F_symbolID",
+      "value": "D6261A46-7FCF-4F2D-B080-D8880F7FE62C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79E9BBEF-4860-450D-8B17-E135E34D5F9C",
+      "overrideName": "11CD9B23-365F-4C8B-873C-101707E186F9_stringValue",
+      "value": "일요일부터 시작"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "27FD85A5-71B1-4B5A-BC64-E43B7180AA1F",
+  "verticalSpacing": 0
+}

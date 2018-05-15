@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3025A0F2-D842-44E5-9CB3-09232E0E5122",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A346D472-E33D-4DE5-9DDB-211EC39E8C15",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A2CD46A6-6330-48F9-89BA-76BAC13A1F86",
+    "height": 48,
+    "width": 360,
+    "x": 0,
+    "y": 352
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "comps / menu / menu_icon_front",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBBEA0C1-1E92-4D7B-BC99-AD517DBC85E1",
+      "overrideName": "B60FEF44-E524-4CD7-8A77-7459CA32FF04_stringValue",
+      "value": "완료된 일정 비우기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8876E654-303B-4AD9-BCA8-BC92BC5D7375",
+      "overrideName": "70FF586A-050D-4480-B1EA-22E9C94C9FBD_symbolID",
+      "value": "04638293-E87A-4A51-B35D-C17639C99EDF"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BCE34D65-03E6-4E4A-831B-7519D45522EB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8DB198D4-DFFB-44B3-A302-A3591D8D8595",
+  "verticalSpacing": 0
+}
