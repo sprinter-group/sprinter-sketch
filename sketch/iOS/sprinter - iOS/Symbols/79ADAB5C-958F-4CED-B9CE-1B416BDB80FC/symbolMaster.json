@@ -1,0 +1,123 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1764,
+  "do_objectID": "79ADAB5C-958F-4CED-B9CE-1B416BDB80FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 343,
+    "x": 1000,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "87E64FB9-D111-4918-8303-9022F7412C36"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "287C20A0-AA7D-49AF-83F1-CCA27054CB88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3AFC87C-8445-4466-8466-608023BC7CDA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC1A55F4-6E06-4E58-9ACB-AD749A06DE0E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2EF2B7F-A29E-413F-BCFC-86898C06D8A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "176E2DC3-AC35-4246-B862-47F096B317F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "520587ED-2772-4CBC-8591-8276EC8D5AD5"
+    }
+  ],
+  "name": "calendar / dayList",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6EF8D8D3-6A8B-4C3A-A87C-5332103EA315",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

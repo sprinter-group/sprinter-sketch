@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "do_objectID": "AB1BDA5A-B338-4F31-9FA0-B6BAB050F064",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F57FFA4A-5B3E-4123-B15C-D3CCFCCC5E10",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A6409DFC-3FB2-4260-B324-676EECF34C5A",
+    "height": 22,
+    "width": 18,
+    "x": 5,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1CBFC58B-6BDD-45B4-AE60-00517DA67064"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "13996EA2-C578-4B35-96B5-4E368480F9AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B85C7DEC-4891-4350-86F2-A8D57DCC61C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "231D9157-7235-4F73-A5D0-CB3064E2E1DA"
+    }
+  ],
+  "name": "-g-ic_paste16",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "F93B9193-3A28-431B-BED2-F70001A2F843",
+      "opacity": 0.16
+    },
+    "do_objectID": "483D8EE0-C18B-4A95-AE6E-FC24A0A7A220",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
