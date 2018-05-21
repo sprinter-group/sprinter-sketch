@@ -1,0 +1,25 @@
+{
+  "name": "sprinter-sketch",
+  "version": "1.0.0",
+  "description": "Sprinter",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sprinter-group/sprinter-sketch.git"
+  },
+  "keywords": [
+    "Sprinter"
+  ],
+  "author": "Spemer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sprinter-group/sprinter-sketch/issues"
+  },
+  "homepage": "https://github.com/sprinter-group/sprinter-sketch#readme",
+  "dependencies": {
+    "sketch-preview": "^1.0.9"
+  }
+}
