@@ -34,7 +34,6 @@ gulp export
 - [Sprinter - Android](https://github.com/sprinter-group/sprinter-android)
 - [Sprinter - iOS](https://github.com/sprinter-group/sprinter-ios)
 - [Sprinter - Sketch](https://github.com/sprinter-group/sprinter-sketch)
-- [Blog](https://sprinter-group.github.io)
 
 ## Design
 
