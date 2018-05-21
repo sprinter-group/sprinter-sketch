@@ -15,7 +15,7 @@
 # install dependencies
 npm install
 
-# install sketch-preview globally
+# install sketch-preview cli tool globally
 npm install sketch-preview -g
 
 # generated site via cli tool
