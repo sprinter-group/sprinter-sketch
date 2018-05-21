@@ -9,7 +9,7 @@
 - [Kactus](https://kactus.io) (Generate sketch files, Version control)
 - [sketch-preview](https://www.npmjs.com/package/sketch-preview) (If you don't have Sketchapp)
 
-## Setup (for preview)
+## Setup (for sketch-preview)
 
 ``` bash
 npm install
