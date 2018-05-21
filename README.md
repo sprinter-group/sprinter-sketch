@@ -12,11 +12,11 @@
 ## Setup (for sketch-preview, iOS only)
 
 ``` bash
-# install dependencies
-npm install
-
 # install sketch-preview cli tool globally
 npm install sketch-preview -g
+
+# install dependencies
+npm install
 
 # generated site via cli tool
 sketch-preview --input=./sketch/iOS/sprinter_iOS.sketch --open
