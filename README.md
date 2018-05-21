@@ -30,3 +30,7 @@ gulp export
 ## Repository
 
 - [Sprinter](https://github.com/sprinter-group)
+
+## Design
+
+- [Behance](https://www.behance.net/gallery/54735807/Sprinter-To-do-list-task-management-application)
