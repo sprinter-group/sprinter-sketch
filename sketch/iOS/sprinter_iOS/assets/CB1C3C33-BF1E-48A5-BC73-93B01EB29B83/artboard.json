@@ -292,6 +292,14 @@
     {
       "class": "symbolInstance",
       "id": "44B9F467-DED1-4FB4-9D98-BD6E32C6D34D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F5CBCBE5-7D93-4D29-8327-B726F7441111"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8422281-4731-47ED-80B0-AF8253AE01C0"
     }
   ],
   "name": "assets",

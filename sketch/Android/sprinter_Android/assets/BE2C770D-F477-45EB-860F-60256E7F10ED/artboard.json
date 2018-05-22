@@ -346,6 +346,14 @@
     {
       "class": "symbolInstance",
       "id": "DED4B54F-015E-4926-BF6B-76EAD6F5CAC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32B856E8-5350-4F2C-9422-F0E13525A09D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D309C12B-F925-46B3-9B09-E26882741CA8"
     }
   ],
   "name": "assets",
