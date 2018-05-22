@@ -171,6 +171,10 @@
     {
       "class": "artboard",
       "id": "80192A9F-BFE8-4134-ADD1-AF62B0955B18"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FDEA88A5-8493-42DE-B713-1FCA74C2E959"
     }
   ],
   "name": "app",

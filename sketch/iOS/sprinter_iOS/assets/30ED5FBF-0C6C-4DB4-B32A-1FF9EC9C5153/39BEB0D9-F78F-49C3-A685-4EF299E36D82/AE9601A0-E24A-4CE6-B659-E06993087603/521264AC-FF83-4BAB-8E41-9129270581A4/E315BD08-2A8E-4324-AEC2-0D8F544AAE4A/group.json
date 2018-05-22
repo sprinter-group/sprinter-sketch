@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "E315BD08-2A8E-4324-AEC2-0D8F544AAE4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "022F583E-F25D-4F12-84F3-94014B0B1F52",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E43C5CC0-A4BC-4C38-84BD-C34278DDEC1E",
+    "height": 20.2572347266881,
+    "width": 126.3907407407407,
+    "x": 0,
+    "y": 7.24031334963811
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CD4A9B79-4941-4530-A740-CFC46FA580C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26D2C39E-F43D-41E7-82DE-962749DD7C3C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "30EDC957-EF09-49FB-AE45-3C1875710987"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1B39CFAF-5359-4721-AD2F-E29DD42DF36C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D1A3680D-5DD1-4A90-A2B2-33BDC7BE71AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1B324365-AB8C-4872-A742-C5BB96F1A561"
+    }
+  ],
+  "name": "Speaker",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AC761552-0ACA-4CB2-8867-426EAC143FDE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.06718891606351,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "81431828-7B44-4757-940F-A9C9DC9DDD51",
+      "opacity": 0.8013642723880597
+    },
+    "do_objectID": "68E70C67-9D23-4142-B8C6-61B2E5054E1C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBLayout": {
+          "attributesString": "{\"alignmentX\":\"flex-start\",\"alignmentY\":\"flex-start\",\"direction\":\"column\",\"IsEnabled\":false,\"height\":\"auto\",\"isBounds\":false,\"margin\":[],\"padding\":[],\"spaceBetweenX\":false,\"spaceBetweenY\":false,\"spacingX\":null,\"spacingY\":null,\"width\":\"auto\"}"
+        }
+      }
+    }
+  }
+}

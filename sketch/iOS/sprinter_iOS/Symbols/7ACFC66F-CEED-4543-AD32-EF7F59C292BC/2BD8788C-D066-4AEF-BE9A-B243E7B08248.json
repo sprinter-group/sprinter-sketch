@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2BD8788C-D066-4AEF-BE9A-B243E7B08248",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "819129A0-4A44-48BC-ACA1-17E04E1EE9BD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7F66EBD-F82B-44D8-9F04-0B3A48FF8102",
+    "height": 28,
+    "width": 375,
+    "x": 0,
+    "y": 716
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / tags",
+  "nameIsFixed": false,
+  "originalObjectID": "10129658-133E-45E3-8C38-F5F24758D235",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDB26102-6702-4160-BDFC-D5E6CA6D59BB",
+      "overrideName": "5068096B-EE74-4D7B-8615-EFA8C8B1254E_stringValue",
+      "value": "맘스"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE8A8492-39CD-43E5-8DCC-605EA397003A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F6F92D4B-438B-457F-A6F6-C6FE553C017B",
+  "verticalSpacing": 0
+}

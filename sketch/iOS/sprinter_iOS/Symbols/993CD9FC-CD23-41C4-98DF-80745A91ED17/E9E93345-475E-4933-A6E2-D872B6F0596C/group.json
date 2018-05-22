@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "E9E93345-475E-4933-A6E2-D872B6F0596C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "030F4C7F-6284-4DCE-B536-C543807EDD85",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7527F48C-D1C4-4503-B119-E605FF9F1A49",
+    "height": 12,
+    "width": 25,
+    "x": 336,
+    "y": 17
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "322C2E8B-0984-4DF4-889A-766F3F8C2433"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7345CE9B-E90B-4799-9BBD-2805BAD6FD1E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "330D0489-9A9F-4E41-90A0-8A78161D9192"
+    }
+  ],
+  "name": "Battery",
+  "nameIsFixed": true,
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "33A8C5DE-3B91-450E-826A-E553B279D127",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

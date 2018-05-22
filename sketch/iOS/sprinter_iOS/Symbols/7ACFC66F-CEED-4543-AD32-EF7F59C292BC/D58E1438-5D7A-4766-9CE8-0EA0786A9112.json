@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D58E1438-5D7A-4766-9CE8-0EA0786A9112",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B97E798C-0A9F-4734-90BC-1003B07D4E72",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7FEDDF03-35C6-4966-BD7D-C5A8D4C2CFB4",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 376
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / surveyHighest",
+  "nameIsFixed": false,
+  "originalObjectID": "7201450C-6495-4289-AC22-2ECEB892E465",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3F1A488-CE86-42B7-90FD-61E7759D6E93",
+      "overrideName": "50BA0672-F639-4B23-90AE-C1DDBF92F464_stringValue",
+      "value": "2월 9일 금요일"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B34DE233-F03B-497A-80E5-B26221F40F00",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F0FD5FCE-3C3C-4607-9165-CD4F177846B0",
+  "verticalSpacing": 0
+}

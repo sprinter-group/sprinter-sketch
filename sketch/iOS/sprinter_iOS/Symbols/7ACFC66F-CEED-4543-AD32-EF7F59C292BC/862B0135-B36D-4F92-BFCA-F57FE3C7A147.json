@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "862B0135-B36D-4F92-BFCA-F57FE3C7A147",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E5473BB-4A09-4BD3-85CC-AF38103BFA2B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "CE957FAE-BF84-456C-AC32-153CD0F95C35",
+    "do_objectID": "A8C0B511-E3C8-4B13-AC8D-D160280938B5"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "216170CF-365F-4D23-916A-80DB0829363C",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 424
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / surveySelected",
+  "nameIsFixed": false,
+  "originalObjectID": "5F242CC0-05E7-4AD9-B326-4B9F41474046",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF51F1F8-E39E-48D8-9DE1-332737C28FCB",
+      "overrideName": "39CB8652-B324-4074-880A-84934DDDD840_stringValue",
+      "value": "2월 16일 금요일"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1862E34-741D-45AE-AFC6-87D0AC1B76EC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "74957381-8727-432C-A6A8-BCEB09ACA8E0",
+  "verticalSpacing": 0
+}

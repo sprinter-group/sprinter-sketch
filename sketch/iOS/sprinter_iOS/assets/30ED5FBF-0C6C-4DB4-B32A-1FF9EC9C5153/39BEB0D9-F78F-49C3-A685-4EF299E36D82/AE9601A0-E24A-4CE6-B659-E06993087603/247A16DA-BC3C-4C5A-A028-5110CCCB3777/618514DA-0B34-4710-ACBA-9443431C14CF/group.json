@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "618514DA-0B34-4710-ACBA-9443431C14CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "225B3365-D995-4C31-8576-E7A14F5DB6A2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A21006BE-D436-453A-87EF-BD114A302860",
+    "height": 2083.601286173634,
+    "width": 1029.457407407407,
+    "x": 6.437065637065636,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E9E9DCB5-07AC-417E-AFE0-F19BDE84D39B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "31F41E2E-7767-4E2A-AD9B-A1EDB5913650"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "23F03DD0-FFE8-47E2-AF64-5E33C8A6B7C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9262CE89-91B9-49E2-9058-308F1A26EAD2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58FAE04C-1610-41CE-9948-D6A1612D4ED3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5A9246B9-C7F7-4C9D-9B27-DE4731199BC9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "373E814B-28A8-423C-9788-DE14330B73A3"
+    }
+  ],
+  "name": "Phone Shape",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FFDE1AAD-B6EF-4848-AFC5-24DE23FC1130",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.04479261070901,
+      "type": 0
+    },
+    "do_objectID": "CD9CC452-4635-439B-8A81-CC727227168B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
