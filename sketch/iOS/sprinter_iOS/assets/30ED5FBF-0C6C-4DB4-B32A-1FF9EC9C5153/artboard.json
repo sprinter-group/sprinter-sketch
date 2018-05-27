@@ -19,7 +19,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 3,
         "visibleScaleType": 0
       }
     ],
@@ -38,7 +38,7 @@
     "y": -100
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
